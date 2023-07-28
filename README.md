@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/TUDelft-CITG/BE-notebooks/blob/master/LICENSE.txt)
 
-# Building Engineering / Notebooks
+# Building Engineering / Repository
 
 This repository will be used to supply students with some example Jupyter(lab) Notebook calculations to get them started with programming in Python using Jupyter(lab), and to share student work with each other.
 
@@ -18,7 +18,7 @@ The example notebooks are stored in the folder "example-notebooks". Currently av
 Student work is stored in the folder "students". Currently available:
 * Bachelor End Projects
   * **4pile pile cap optimization** - Eurocode calculation for concrete 4p pile caps, with optimization routines for cost and sustainability (2020 [Friso van Spengler](https://github.com/Frisovanspengler))
-  *  **Design tool for vibration nuisance** - 1-spring-mass-system design tool to calculate the response of a mass to a harmonic base excitation, and compare vibration speeds to nuisance target values according to Dutch SBR Guideline B (2021 Jippe van Daalen)
+  * **Design tool for vibration nuisance** - 1-spring-mass-system design tool to calculate the response of a mass to a harmonic base excitation, and compare vibration speeds to nuisance target values according to Dutch SBR Guideline B (2021 Jippe van Daalen)
 
 ## External (Github) links
 * Master theses:
